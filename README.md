@@ -2,7 +2,7 @@ Heart Disease Risk Prediction
 
 Binary classification of heart disease presence using the UCI Heart Disease (Cleveland) dataset, with an interactive Streamlit app for live predictions and EDA exploration.
 
-Live demo: 
+Live demo: https://uci-heart-disease-ekkwc8pjg3xjrekdb7slqg.streamlit.app/
 
 Problem
 
